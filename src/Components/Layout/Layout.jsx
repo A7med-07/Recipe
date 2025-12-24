@@ -1,5 +1,5 @@
 import React from 'react'
-import SideNav from '../Sidenav/SideNav'
+import SideNav from '../SideNav/SideNav'
 import Footer from '../Footer/Footer'
 import {Outlet} from 'react-router-dom'
 
