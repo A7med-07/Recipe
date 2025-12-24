@@ -1,6 +1,4 @@
 import './App.css'
-import SideNav from './Components/Sidenav/SideNav'
-import Footer from './Components/Footer/Footer'
 import Home from './Components/Home/Home'
 import Details from './Components/Details/Details'
 import Layout from './Components/Layout/Layout'
