@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-pacifico {
+    font-family: "Pacifico", cursive;
+  }
+.story-script-regular {
+  font-family: "Story Script", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.delius-swash-caps-regular {
+  font-family: "Delius Swash Caps", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+}
+
+.active{
+    background: #000;
+    color: #fff;
+}
